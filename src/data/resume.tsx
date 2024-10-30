@@ -71,6 +71,13 @@ export const DATA = {
 
         navbar: false,
       },
+      Whatsapp: {
+        name: "Whatsapp",
+        url: "https://wa.me/+6282217012023",
+        icon: Icons.whatsapp,
+
+        navbar: false,
+      }
     },
   },
 
@@ -102,7 +109,7 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Opnen University",
+      school: "Open University",
       href: "https://www.ut.ac.id/",
       degree: "Bachelor's Degree of Information Systems",
       logoUrl: "/ut.png",
