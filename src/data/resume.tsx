@@ -10,7 +10,11 @@ export const DATA = {
   description:
     "Backend Developer passionate about solving complex problems and building scalable systems.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    `I kicked off my programming journey in January 2021, self-studying and practicing with simple projects to build my skills. In October 2021, I got an internship as a Backend Engineer at Kodingworks, doing several projects until June 2022. After that, I kept up with my studies on my own, sharing what I learned through articles on Medium and getting more technical.
+
+In December 2022, I joined an online Fullstack bootcamp to gain a deeper understanding of the subject and learn how to work better with other people in a team through various projects. I've been working as a Backend Developer at Halobelanja.com since June 2023. I finished the haloatv project and helped the team with some backend service refactoring. 
+
+I'm also expanding my knowledge by studying for a Bachelor's degree in Information Systems at Open University.`,
   avatarUrl: "/me.png",
   skills: [
     "Node.js",
@@ -31,7 +35,6 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "hello@example.com",
@@ -56,13 +59,13 @@ export const DATA = {
         url: "https://dub.sh/dillion-twitter",
         icon: Icons.x,
 
-        navbar: true,
+        navbar: false,
       },
       Youtube: {
         name: "Youtube",
         url: "https://dub.sh/dillion-youtube",
         icon: Icons.youtube,
-        navbar: true,
+        navbar: false,
       },
       email: {
         name: "Send Email",
@@ -77,6 +80,20 @@ export const DATA = {
         icon: Icons.whatsapp,
 
         navbar: false,
+      },
+      Medium: {
+        name: "Medium",
+        url: "https://medium.com/@ahmadsaifudinardhiansyah",
+        icon: NotebookIcon,
+
+        navbar: true,
+      },
+      Email: {
+        name: "Email",
+        url: "mailto:ahmadsaifudinardhiansyah@gmail.com",
+        icon: Icons.email,
+
+        navbar: true,
       }
     },
   },
@@ -127,17 +144,17 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
-      href: "https://chatcollect.com",
-      dates: "Jan 2024 - Feb 2024",
+      title: "Halo ATV",
+      href: "https://haloatv.com/",
+      dates: "July 2023 - June 2024",
       active: true,
       description:
-        "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
+        "ATV and go-kart booking application at Wahana Integritas Selumbung (WIS) Bali",
       technologies: [
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "MySQL",
+        "Sequelize",
         "TailwindCSS",
         "Stripe",
         "Shadcn UI",
@@ -146,7 +163,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://haloatv.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
