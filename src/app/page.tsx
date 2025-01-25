@@ -47,6 +47,16 @@ export default function Page() {
           <Markdown className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
             {DATA.summary}
           </Markdown>
+          <br />
+          <p className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
+            Check my CV -
+            <Link
+              href={DATA.contact.social.CV.url}
+              className="text-blue-500 hover:underline"
+            >
+              here
+            </Link>
+          </p>
         </BlurFade>
       </section>
       <section id="work">

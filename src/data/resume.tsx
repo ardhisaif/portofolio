@@ -94,6 +94,9 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
         icon: Icons.email,
 
         navbar: true,
+      },
+      CV: {
+        url: "https://docs.google.com/document/d/1vDkbhKUqNNdRMljevLXKSK4aU5eyTSjhdVI1h4i5HaI/edit?usp=sharing"
       }
     },
   },
@@ -145,7 +148,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
   projects: [
     {
       title: "Halo ATV",
-      href: "https://haloatv.com/",
+      href: "https://docs.google.com/document/d/1xZ7c8K8KRJ_lflq-HlWwHhdVUH7rzX2nkSWwMmGE39o/edit?usp=sharing",
       dates: "July 2023 - June 2024",
       active: true,
       description:
@@ -163,13 +166,13 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       links: [
         {
           type: "Website",
-          href: "https://haloatv.com/",
+          href: "https://docs.google.com/document/d/1xZ7c8K8KRJ_lflq-HlWwHhdVUH7rzX2nkSWwMmGE39o/edit?usp=sharing",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://jumpshare.com/embed/DzflT64EPDC1WJmZkHCx",
     },
     {
       title: "Magic UI",
