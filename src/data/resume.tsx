@@ -96,7 +96,9 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
         navbar: true,
       },
       CV: {
-        url: "https://docs.google.com/document/d/1vDkbhKUqNNdRMljevLXKSK4aU5eyTSjhdVI1h4i5HaI/edit?usp=sharing"
+        url: "https://docs.google.com/document/d/1vDkbhKUqNNdRMljevLXKSK4aU5eyTSjhdVI1h4i5HaI/edit?usp=sharing",
+        icon: NotebookIcon,
+        navbar: false
       }
     },
   },
