@@ -114,7 +114,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       start: "June 2023",
       end: "Present",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Built the Halo ATV application from scratch, implementing payment processing, booking management, and payment expiration features. Refactored several backend services to align with team standards and improve code maintainability. Created a Node.js boilerplate to streamline backend development, incorporating ESLint and Prettier for consistent coding practices. Maintained and debugged the Halo Belanja application, ensuring smooth operation and resolving critical issues. Collaborated on designing and developing microservices to enhance scalability and reliability.",
     },
     {
       company: "Kodingworks",
@@ -126,7 +126,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       start: "October 2021",
       end: "June 2022",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Developed and maintained backend features for various projects, focusing on building scalable APIs and integrating third-party services. Contributed to the development of several payment gateway integrations, ensuring secure and reliable transactions.",
     },
   ],
   education: [
