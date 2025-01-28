@@ -174,7 +174,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       ],
       image: "",
       video:
-        "https://jumpshare.com/embed/DzflT64EPDC1WJmZkHCx",
+        "",
     },
     {
       title: "Magic UI",
