@@ -156,14 +156,12 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       description:
         "ATV and go-kart booking application at Wahana Integritas Selumbung (WIS) Bali",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "ExpressJS",
+        "Javascript",
         "MySQL",
         "Sequelize",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "BcriptJS",
+        "Zod"
       ],
       links: [
         {
@@ -174,24 +172,20 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       ],
       image: "",
       video:
-        "",
+        "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
+      title: "Halobelanja",
+      href: "https://docs.google.com/document/d/1-P4gAmQ0IjGXRQ2oqTIXOOKSpcaMef1GNyNU-5u8CHg/edit?usp=sharing",
       dates: "June 2023 - Present",
       active: true,
       description:
-        "Designed, developed and sold animated UI components for developers.",
+        "Halobelanja is a digital wallet application that allows users to manage their finances, make deposits, withdraw funds, and transfer money seamlessly.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "Express.js",
+        "Javascript",
+        "MySQL",
+        "BcriptJS",
       ],
       links: [
         {
@@ -206,7 +200,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
     },
     {
       title: "llm.report",
