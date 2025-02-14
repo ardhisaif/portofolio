@@ -150,7 +150,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
   projects: [
     {
       title: "Halo ATV",
-      href: "https://docs.google.com/document/d/1xZ7c8K8KRJ_lflq-HlWwHhdVUH7rzX2nkSWwMmGE39o/edit?usp=sharing",
+      href: "https://glass-corn-adf.notion.site/HaloATV-19a236f623918041816dd61e2fc474d7",
       dates: "July 2023 - June 2024",
       active: true,
       description:
@@ -176,7 +176,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
     },
     {
       title: "Halobelanja",
-      href: "https://docs.google.com/document/d/1-P4gAmQ0IjGXRQ2oqTIXOOKSpcaMef1GNyNU-5u8CHg/edit?usp=sharing",
+      href: "https://glass-corn-adf.notion.site/Halobelanja-19a236f6239180f2b128c0385b2d537a?pvs=4",
       dates: "June 2023 - Present",
       active: true,
       description:
@@ -199,7 +199,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
     },
     {
       title: "FastAttend",
-      href: "https://docs.google.com/document/d/1fz3wCRAEjVktCX9_L4V5pJ07POElX4FYZNtmfxtIGn0/edit?usp=sharing",
+      href: "https://glass-corn-adf.notion.site/FastAttend-19a236f6239180f6a3aae746e312f575?pvs=4",
       dates: "October 2024 - January 2025",
       active: true,
       description:
@@ -225,27 +225,28 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       video: "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      title: "ChatGETS",
+      href: "https://glass-corn-adf.notion.site/ChatGETS-19a236f62391802890dcc828551087bf?pvs=4",
+      dates: "January 2025 - Now",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "ChatGETS is a chat application that connects users with professional service providers and merchants.",
       technologies: [
+        "ExpressJS",
         "Next.js",
         "Typescript",
-        "PostgreSQL",
-        "Prisma",
+        "SequelizeORM",
+        "MySQL",
+        "socekt.io",
+        "nodemailer",
+        "bcrypt",
+        "zod",
         "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
       ],
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "https://chatgets.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
