@@ -126,7 +126,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       start: "October 2021",
       end: "June 2022",
       description:
-        "Developed and maintained backend features for various projects, focusing on building scalable APIs and integrating third-party services. Contributed to the development of several payment gateway integrations, ensuring secure and reliable transactions.",
+        "Developed and maintained backend features for Warung.io and Qerja.io, focusing on building APIs and integrating third-party payment gateways.",
     },
   ],
   education: [
@@ -251,6 +251,31 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
           type: "Source",
           href: "https://github.com/ardhisaif/laravel_attendance_app",
           icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
+    },
+    {
+      title: "Warung.io",
+      href: "https://glass-corn-adf.notion.site/Warung-io-19f236f6239180c89027efaae049f942",
+      dates: "October 2021 - Desember 2021",
+      active: true,
+      description:
+        "Warung.io is a platform that helps businesses create their own online stores with fast service, local payment options, and shipping integration.",
+      technologies: [
+        "NodeJS",
+        "Typescript",
+        "KoaJS",
+        "MongoDB",
+        "MongooseORM",
+        "JoiSchema",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://warung.io/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "",
