@@ -148,6 +148,37 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
     },
   ],
   projects: [
+
+    {
+      title: "ChatGETS",
+      href: "https://glass-corn-adf.notion.site/ChatGETS-19a236f62391802890dcc828551087bf?pvs=4",
+      dates: "January 2025 - Present",
+      active: true,
+      description:
+        "ChatGETS is a chat application that connects users with professional service providers and merchants.",
+      technologies: [
+        "ExpressJS",
+        "Next.js",
+        "Typescript",
+        "SequelizeORM",
+        "MySQL",
+        "Socket.io",
+        "Nodemailer",
+        "Bcrypt",
+        "Zod",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://chatgets.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+    },
     {
       title: "Halo ATV",
       href: "https://glass-corn-adf.notion.site/HaloATV-19a236f623918041816dd61e2fc474d7",
@@ -160,8 +191,9 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
         "Javascript",
         "MySQL",
         "Sequelize",
-        "BcriptJS",
-        "Zod"
+        "Bcrypt",
+        "Zod",
+        "Nodemailer"
       ],
       links: [
         {
@@ -185,7 +217,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
         "Express.js",
         "Javascript",
         "MySQL",
-        "BcriptJS",
+        "Bcrypt",
       ],
       links: [
         {
@@ -223,36 +255,6 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       ],
       image: "",
       video: "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
-    },
-    {
-      title: "ChatGETS",
-      href: "https://glass-corn-adf.notion.site/ChatGETS-19a236f62391802890dcc828551087bf?pvs=4",
-      dates: "January 2025 - Now",
-      active: true,
-      description:
-        "ChatGETS is a chat application that connects users with professional service providers and merchants.",
-      technologies: [
-        "ExpressJS",
-        "Next.js",
-        "Typescript",
-        "SequelizeORM",
-        "MySQL",
-        "socekt.io",
-        "nodemailer",
-        "bcrypt",
-        "zod",
-        "TailwindCSS",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://chatgets.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
   ],
   hackathons: [
