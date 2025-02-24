@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Backend Developer passionate about solving complex problems and building scalable systems.",
+    "Passionate Backend Developer dedicated to growing through learning and collaboration, ensuring code quality while adapting to new challenges.",
   summary:
     `I kicked off my programming journey in January 2021, self-studying and practicing with simple projects to build my skills. In October 2021, I got an internship as a Backend Engineer at Kodingworks, doing several projects until June 2022. After that, I kept up with my studies on my own, sharing what I learned through articles on Medium and getting more technical.
 
