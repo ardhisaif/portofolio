@@ -148,7 +148,31 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
     },
   ],
   projects: [
-
+    {
+      title: "Diorder",
+      href: "https://github.com/ardhisaif/diorder-food",
+      dates: "Maret 2025 - Present",
+      active: true,
+      description:
+        "ChatGETS is a chat application that connects users with professional service providers and merchants.",
+      technologies: [
+        "Reactjs",
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Vite",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://diorder-food.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+    },
     {
       title: "ChatGETS",
       href: "https://glass-corn-adf.notion.site/ChatGETS-19a236f62391802890dcc828551087bf?pvs=4",
