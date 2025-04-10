@@ -161,6 +161,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
         "Typescript",
         "TailwindCSS",
         "Vite",
+        "Supabase"
       ],
       links: [
         {
@@ -171,7 +172,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "https://sewwxvvscpmvinihyrcq.supabase.co/storage/v1/object/public/merchant//diorder-preview.mp4",
     },
     {
       title: "ChatGETS",
@@ -201,7 +202,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
     },
     {
       title: "Halo ATV",
@@ -228,7 +229,7 @@ I'm also expanding my knowledge by studying for a Bachelor's degree in Informati
       ],
       image: "",
       video:
-        "https://drive.google.com/uc?export=download&id=1UpJaWfhqTsu92kipPQb4A92Qs7QmWL3s",
+        "https://sewwxvvscpmvinihyrcq.supabase.co/storage/v1/object/public/merchant//haloatv.mp4",
     },
     {
       title: "Halobelanja",
